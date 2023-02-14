@@ -23,17 +23,17 @@ const getItems = () => {
     },
     {
       name: "About",
-      path: "/About",
+      path: "/about",
       icon: <DesktopOutlined />
     },
     {
       name: "Product",
-      path: "/Product",
+      path: "/product",
       icon: <TeamOutlined />
     },
     {
       name: "Team",
-      path: "/Team",
+      path: "/team",
       icon: <TeamOutlined />
     },
   ]
